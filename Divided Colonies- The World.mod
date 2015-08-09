@@ -7,5 +7,5 @@ tags={
 	"Gameplay"
 	"Expansion"
 }
-picture="extended_timeline.jpg"
+picture="thY8R28FUR.jpg"
 supported_version="1.12"
